@@ -5,7 +5,12 @@
 <nav></nav>
 <a hraf>='home'</b>
 <nav></nav>
-<a hraf='home'>beranda</a>
-<a hraf='history'>Sejarah</a>
-<a hraf= 'contact'>kontak</a>
+
+  
+  
+  <a hraf="home">beranda</a>
+<a hraf="history">Sejarah</a>
+<a hraf= "contact">kontak</a>
+
+
 <nav></nav>
